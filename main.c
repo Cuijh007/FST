@@ -1,9 +1,6 @@
 /*
- * This program is only used to show a portion of my work to Edinburgh (EPCC)
  * Finite State Acceptor is usually decoded after npu processing. The following is the specific decoding process.
  * For full use, phonetic dictionaries and acoustic models are required.
- *
- * High Performance Computing, this is for you!!!
  *
  * Author:   Jiahao Cui
  * UUN:      S2602811
